@@ -1,11 +1,11 @@
 require("./database/module")
 
 global.storename = "𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽"
-global.dana = "2347041039367"
+global.dana = "2348164503991"
 global.qris = "-"
-global.owner = "2347041039367"
+global.owner = "2348164503991"
 global.namabot = "𝙱𝙻𝚄𝙴x𝙳𝙴𝙼𝙾𝙽"
-global.nomorbot = "2347041039367"
+global.nomorbot = "2348164503991"
 global.namaCreator = "𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽"
 global.linkyt = "https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h"
 global.autoJoin = false
